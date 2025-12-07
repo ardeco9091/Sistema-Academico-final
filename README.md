@@ -56,7 +56,8 @@ heroku open
         9,
         8,
         10
-      ]
+      ],
+      "email": "ana.garcia@example.com"
     },
     {
       "nombre": "Luis",
@@ -67,7 +68,8 @@ heroku open
         6,
         7,
         5
-      ]
+      ],
+      "email": "luis.perez@example.com"
     },
     {
       "nombre": "Marta",
@@ -78,10 +80,12 @@ heroku open
         10,
         9,
         9
-      ]
+      ],
+      "email": "marta.lopez@example.com"
     }
   ]
 }
+
 ```
 
 ##  Respuesta esperada ✅
